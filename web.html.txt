@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    em{
+    color: rgb(240, 13, 13);
+    font-style:italic;
+    }
+    img {
+        width: 150px;
+        height: 150px;
+        border-radius:75px;
+        float: left;
+        margin-right: 10px;
+    }
+</style>
+<body>
+    <h1>Heading 1</h1>
+    <h2>HTML</h2>
+    <p>&lt;HTML&gt; tutorial&copy;</p>
+    <h2>CSS</h2>
+    <h3>code</h3>
+    <P>CSS tutorial</P>
+    <p>I love to teach&nbspyou <em>HTML!</em></p>
+    <a href="index.html">
+        <img src="image.png" alt="an image of brave">
+    </a>
+    <a href="image.png" download>pic</a>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae est voluptatem ea blanditiis error iure distinctio ullam ad, tempora quo?</p>
+</body>
+</html>
